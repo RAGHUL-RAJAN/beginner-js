@@ -8,5 +8,5 @@ let person = {
         }
 }
 
-console.log(person.fullname())
+person.fullname()
 console.log(person.lastname)
