@@ -3,6 +3,7 @@ class Person{
     // location = "canada"
 
     // property getters 
+    
     get location(){
         return "canada"
     }
