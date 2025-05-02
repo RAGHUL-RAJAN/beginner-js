@@ -14,3 +14,18 @@ const person ={
 }
 
 person.greetings();
+
+
+// Function
+function greeting(){
+    console.log("Hello World")
+}
+
+greeting()
+
+const wish = function(){
+    console.log("Good morning")
+}
+
+
+wish()
