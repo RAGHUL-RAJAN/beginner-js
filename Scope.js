@@ -10,7 +10,6 @@ function VarExample(){
 }
 
 // VarExample()
-
 // let block scope can be updated but not able to redeclare with in same scope
 
 function letExample(){
