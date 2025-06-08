@@ -17,7 +17,6 @@ console.log(fruits)         //[ 'Apple', 'Orange', 'Mango' ]
 fruits.unshift("Jackfruite");
 console.log(fruits)         //[ 'Jackfruite', 'Apple', 'Orange', 'Mango' ]
 
-
 // removing at the begining of the array 
 fruits.shift()
 console.log(fruits)         //[ 'Apple', 'Orange', 'Mango' ]
