@@ -19,7 +19,6 @@ let fruits = ["banana", "apple", "orange", "jackfruite","papaya"]
 
 console.log(fruits.sort())
 
-
 let age = [ 2,32,18,12, 5,35,28 ]
 
 console.log(age.sort())
