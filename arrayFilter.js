@@ -4,7 +4,6 @@ let mark = [ 1, 3, 5, 6, 8,12, 26]
 
 console.log((mark.filter(score => score%2 == 0).map(score => score*3)).reduce((sum,val)=>sum+val,0))
 
-
 let score = [2,3, 5, 63,44,23,86,10,11]
 
 var final = score.filter(score => score%2 ==0)
