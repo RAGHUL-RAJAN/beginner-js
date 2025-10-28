@@ -21,7 +21,6 @@ console.log(fruits)         //[ 'Jackfruite', 'Apple', 'Orange', 'Mango' ]
 fruits.shift()
 console.log(fruits)         //[ 'Apple', 'Orange', 'Mango' ]
 
-
 // find the element using index
 const index = fruits.indexOf("Apple")
 console.log(index)              // 0
